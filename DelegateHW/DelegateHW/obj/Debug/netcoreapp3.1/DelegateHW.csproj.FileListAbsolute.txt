@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\bin\Debug\netcoreapp3.1\DelegateHW.exe
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\bin\Debug\netcoreapp3.1\DelegateHW.deps.json
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\bin\Debug\netcoreapp3.1\DelegateHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\bin\Debug\netcoreapp3.1\DelegateHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\bin\Debug\netcoreapp3.1\DelegateHW.dll
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\bin\Debug\netcoreapp3.1\DelegateHW.pdb
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\obj\Debug\netcoreapp3.1\DelegateHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\obj\Debug\netcoreapp3.1\DelegateHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\obj\Debug\netcoreapp3.1\DelegateHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\obj\Debug\netcoreapp3.1\DelegateHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\obj\Debug\netcoreapp3.1\DelegateHW.dll
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\obj\Debug\netcoreapp3.1\DelegateHW.pdb
+C:\Users\Esetb\source\repos\DelegateHW\DelegateHW\obj\Debug\netcoreapp3.1\DelegateHW.genruntimeconfig.cache
