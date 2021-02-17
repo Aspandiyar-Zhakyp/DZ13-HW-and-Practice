@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\bin\Debug\netcoreapp3.1\CollectionsHW.exe
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\bin\Debug\netcoreapp3.1\CollectionsHW.deps.json
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\bin\Debug\netcoreapp3.1\CollectionsHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\bin\Debug\netcoreapp3.1\CollectionsHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\bin\Debug\netcoreapp3.1\CollectionsHW.dll
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\bin\Debug\netcoreapp3.1\CollectionsHW.pdb
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\obj\Debug\netcoreapp3.1\CollectionsHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\obj\Debug\netcoreapp3.1\CollectionsHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\obj\Debug\netcoreapp3.1\CollectionsHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\obj\Debug\netcoreapp3.1\CollectionsHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\obj\Debug\netcoreapp3.1\CollectionsHW.dll
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\obj\Debug\netcoreapp3.1\CollectionsHW.pdb
+C:\Users\Esetb\source\repos\CollectionsHW\CollectionsHW\obj\Debug\netcoreapp3.1\CollectionsHW.genruntimeconfig.cache
